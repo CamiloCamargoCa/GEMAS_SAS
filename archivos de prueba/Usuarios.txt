@@ -1,0 +1,8 @@
+prueba1@empresa.com,nombre1,apellido1,1
+prueba2@empresa.com,nombre2,apellido2,1
+prueba3@empresa.com,nombre3,apellido3,1
+prueba4@empresa.com,nombre4,apellido4,2
+prueba5@empresa.com,nombre5,apellido5,2
+prueba6@empresa.com,nombre6,apellido6,2
+prueba7@empresa.com,nombre7,apellido7,3
+prueba8@empresa.com,nombre8,apellido8,3
